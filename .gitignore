@@ -1,7 +1,2 @@
-PHPUnit.docset.zip
-Thumbs.db
-desktop.ini
-.DS_Store
-.buildpath
-.project
-.settings
+/**/PHP.docset
+/**/Docset/
